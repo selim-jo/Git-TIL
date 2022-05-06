@@ -1,0 +1,11 @@
+1. 앞으로 git 프로젝트를 만들고 싶은 것
+- 스포츠 관련 웹페이지 제작
+- 사회에 도움이 될 수 있는 웹페이지 제작
+
+2. 1주차 주요 개념 키워드 적어보기
+- git & github
+- git innit
+- 버전관리
+- commit
+- 원격repo-로컬repo
+- push, pull, clone
