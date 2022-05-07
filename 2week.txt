@@ -1,0 +1,7 @@
+1. 2주차 협업을 위한 Git 주요 개념 키워드 적어보기
+- 작업방식 3단계
+- Issue
+- Branch
+- Merge
+- Merge conflict
+- 원격 repo와 Branch
