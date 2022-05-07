@@ -1,6 +1,6 @@
 # 3주차 Git 수업에서 배운 것
 
-- ! [3주차 개념지도] (https://lh3.googleusercontent.com/lYhhH_bEYC_rRd1RcYDIbqMNG3byqPiqeKXQoNjneNAdbD9xyNVhq7BmZIpwASKtkp6ZYRMU01Co2oyl8tfJceE0ZFcQYrKKd9YBu9EqfFZQw1ytT8KM)
+![3주차 개념지도](https://user-images.githubusercontent.com/91789496/167261934-93ffd809-7503-4eac-9074-740124fe4ddd.png)
 
 - PR
 - fork
